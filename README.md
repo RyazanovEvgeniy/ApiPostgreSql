@@ -2,6 +2,6 @@
 
 - Code First Db
 - PostgreSql
-- UnitOfWork Pattern
+- UnitOfWork
 - Layered application
 - Docker
